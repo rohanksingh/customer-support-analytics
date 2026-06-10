@@ -125,4 +125,3 @@ Relationships follow a star schema: `tickets_clean` at center, all other tables 
 ## Author
 
 **Rohan Kumar**  
-[LinkedIn](https://linkedin.com/in/your-profile) · [SSRN Research](https://ssrn.com/abstract=6576018)

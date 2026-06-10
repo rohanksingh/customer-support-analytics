@@ -1,0 +1,6 @@
+region_name,region_head,sla_target_minutes
+NORTHEAST,Head of Northeast,30
+SOUTHEAST,Head of Southeast,45
+MIDWEST,Head of Midwest,90
+WEST,Head of West,30
+SOUTHWEST,Head of Southwest,30
